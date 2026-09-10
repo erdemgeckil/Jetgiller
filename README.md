@@ -1,0 +1,2 @@
+# Jetgiller
+Kişisel AI Asistanı
